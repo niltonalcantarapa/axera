@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://www.axeratoken.com">Website</a> •
-  <a href="https://www.axeratoken.com/en/documents">Whitepaper</a> •
-  <a href="https://polygonscan.com">Polygon</a>
+  <a href="https://assets.zyrosite.com/fSh76KWFKIJfCh1E/axara-axr-a-whitepaper-institucional-2.0-en-amRTStuUKhJ03kGl.pdf">Whitepaper</a> •
+  <a href="https://polygonscan.com/address/0x94FAa378B1bd8d6b337d5d32Ddfeabe649db80bE">Polygon</a>
 </p>
 
 ---
